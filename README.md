@@ -1,17 +1,19 @@
 Damian Méndez
+
 Backend Web Developer | Full Stack en crecimiento | Construyendo soluciones escalables
 
 Soy un desarrollador orientado al backend con foco en crear aplicaciones sólidas, bien estructuradas y escalables. Me apasiona la arquitectura, la lógica de negocio y diseñar APIs que realmente resuelven problemas.
 Actualmente sigo fortaleciendo mi stack full stack, combinando buenas prácticas con herramientas modernas.
 
-🚀 Tech Stack
+Tech Stack:
 
 Backend: Node.js · NestJS · Express · TypeScript · PostgreSQL · Prisma / TypeORM
-Frontend: React · TypeScript · Zustand / Context · Responsive Design
+Frontend: React · TypeScript · Context · Responsive Design
 Infra & Tools: Docker · Cloudinary · Railway · Pipelines CI/CD · Git · GitHub
 Autenticación & Seguridad: JWT · Guards · Roles · Hashing
 
-📌 Proyectos Destacados
+Proyectos Destacados:
+
 Volantia – Plataforma de alquiler de vehículos entre usuarios
 
 Backend principal · Node.js · NestJS · Prisma · PostgreSQL
@@ -50,7 +52,8 @@ Trabajo con mentalidad de mejora constante, comunicación clara y compromiso con
 
 Email: hectormendez_95@yahoo.com
 
-LinkedIn: agregá tu link cuando quieras
+LinkedIn: (https://www.linkedin.com/in/damian-mendez-86a742189/)
+
 GitHub: @MenHec95
 
 ✨ Fun fact
